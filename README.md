@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 4 – HALF WAVE AND FULL WAVE BRIDGE RECTIFIERS
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |Cheranraj MD | **Reg. No.:** |26013124 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+
 
 ---
 
